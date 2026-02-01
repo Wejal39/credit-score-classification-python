@@ -26,4 +26,5 @@ credit-score-classification-python/
 The model achieved satisfactory performance in classifying customers by credit risk,
 demonstrating the potential use of Machine Learning to support financial analysis.
 
-📌 Project developed during Jornada Python — Hashtag Treinamentos.
+📌 Project developed during the Python Workshop in September 2025 — Hashtag Training.
+
